@@ -1,0 +1,5711 @@
+[
+    {
+        "title": "ActingSubstanceCalculationNormTypes",
+        "childs": [
+            {
+                "title": "ClusterActingSubstanceCalculationNormTypes",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ActingSubstances",
+        "childs": [
+            {
+                "title": "PlantProtectionActingSubstances",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "AdministrativeUnits",
+        "childs": [
+            {
+                "title": "Fields",
+                "childs": [
+                    {
+                        "title": "FieldAreaChanges",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldAssignments",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldFertilizerApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldFertilizerDeposits",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldHarmfulObjectSurveyActs",
+                        "childs": [
+                            {
+                                "title": "FieldHarmfulObjectSurveyActSamples",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldLimingMaterials",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldPerformancePoints",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldPlantProtectionApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldPurposeChanges",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldSoilCharacteristicSurveyActs",
+                        "childs": [
+                            {
+                                "title": "FieldSoilCharacteristicSurveyActSamples",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldSoilTypeAggregateSizeDistributionClasses",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldSortHybridApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelsProductivityByYears",
+                        "childs": []
+                    },
+                    {
+                        "title": "MaterialValuesStorageRoutes",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationExecutionHistoryOnFields",
+                        "childs": []
+                    },
+                    {
+                        "title": "ResponsibilityAreaFields",
+                        "childs": []
+                    },
+                    {
+                        "title": "StructuralPositionObjects",
+                        "childs": []
+                    },
+                    {
+                        "title": "YieldHistoricalDataByYears",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "AgroZones",
+        "childs": [
+            {
+                "title": "ClimaticZones",
+                "childs": [
+                    {
+                        "title": "ClimaticZonePhotosyntheticallyActiveRadiations",
+                        "childs": []
+                    },
+                    {
+                        "title": "ClimaticZoneSortHybridWeightRatios",
+                        "childs": []
+                    },
+                    {
+                        "title": "Fields",
+                        "childs": [
+                            {
+                                "title": "FieldAreaChanges",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldAssignments",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldFertilizerApplications",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldFertilizerDeposits",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldHarmfulObjectSurveyActs",
+                                "childs": [
+                                    {
+                                        "title": "FieldHarmfulObjectSurveyActSamples",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "FieldLimingMaterials",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldPerformancePoints",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldPlantProtectionApplications",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldPurposeChanges",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldSoilCharacteristicSurveyActs",
+                                "childs": [
+                                    {
+                                        "title": "FieldSoilCharacteristicSurveyActSamples",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "FieldSoilTypeAggregateSizeDistributionClasses",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldSortHybridApplications",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldYields",
+                                "childs": []
+                            },
+                            {
+                                "title": "HitchModelsProductivityByYears",
+                                "childs": []
+                            },
+                            {
+                                "title": "MaterialValuesStorageRoutes",
+                                "childs": []
+                            },
+                            {
+                                "title": "OperationExecutionHistoryOnFields",
+                                "childs": []
+                            },
+                            {
+                                "title": "ResponsibilityAreaFields",
+                                "childs": []
+                            },
+                            {
+                                "title": "StructuralPositionObjects",
+                                "childs": []
+                            },
+                            {
+                                "title": "YieldHistoricalDataByYears",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SortHybridClimaticZones",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "CropAllocationSchemas",
+                "childs": []
+            },
+            {
+                "title": "CropOptimalReseedingTerms",
+                "childs": []
+            },
+            {
+                "title": "CropRotations",
+                "childs": []
+            },
+            {
+                "title": "MonocultureMaxNumberOfRepetitions",
+                "childs": []
+            },
+            {
+                "title": "SortHybridAgroZones",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ArrayBuildingStrategies",
+        "childs": [
+            {
+                "title": "LegalEntities",
+                "childs": [
+                    {
+                        "title": "ClusterLegalEntities",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldAssignments",
+                        "childs": []
+                    },
+                    {
+                        "title": "LegalEntitySortHybridBalances",
+                        "childs": []
+                    },
+                    {
+                        "title": "MachineryInstances",
+                        "childs": [
+                            {
+                                "title": "MachineryInstanceProductivities",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SeedBalances",
+                        "childs": []
+                    },
+                    {
+                        "title": "StructuralPositions",
+                        "childs": [
+                            {
+                                "title": "ResponsibilityAreaClusters",
+                                "childs": []
+                            },
+                            {
+                                "title": "ResponsibilityAreaFields",
+                                "childs": []
+                            },
+                            {
+                                "title": "ResponsibilityAreaGeoZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "StructuralPositionObjects",
+                                "childs": []
+                            },
+                            {
+                                "title": "UserStructuralPositions",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "BiologyClasses",
+        "childs": [
+            {
+                "title": "HarmfulObjectPassports",
+                "childs": [
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "BiologyFamilies",
+        "childs": [
+            {
+                "title": "HarmfulObjectPassports",
+                "childs": [
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "BiologyGenuses",
+        "childs": [
+            {
+                "title": "HarmfulObjectPassports",
+                "childs": [
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "BiologyKingdoms",
+        "childs": [
+            {
+                "title": "HarmfulObjectPassports",
+                "childs": [
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "BiologyOrders",
+        "childs": [
+            {
+                "title": "HarmfulObjectPassports",
+                "childs": [
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "BiologyTypes",
+        "childs": [
+            {
+                "title": "HarmfulObjectPassports",
+                "childs": [
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "ChemicalElements",
+        "childs": [
+            {
+                "title": "ChemicalElementFertilizerMeasures",
+                "childs": []
+            },
+            {
+                "title": "ClusterBasicSoilAnalysisMethodByChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "CompoundActiveSubstances",
+                "childs": []
+            },
+            {
+                "title": "CropCharacteristicsByChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "FertilizerAdjustmentFactorApplicationMethods",
+                "childs": []
+            },
+            {
+                "title": "FertilizerAdjustmentFactorMineralizationWithBiodestractors",
+                "childs": []
+            },
+            {
+                "title": "FertilizerAdjustmentFactorMineralizationWithoutBiodestractors",
+                "childs": []
+            },
+            {
+                "title": "FertilizerAdjustmentFactorSoilPHs",
+                "childs": []
+            },
+            {
+                "title": "FertilizerAdjustmentFactorSoilTextures",
+                "childs": []
+            },
+            {
+                "title": "FertilizerAdjustmentFactorsOrganicMatters",
+                "childs": []
+            },
+            {
+                "title": "FertilizerAdjustmentFactorsSoilPhosphoruses",
+                "childs": []
+            },
+            {
+                "title": "FertilizerChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "SoilAnalysisMethodSoilNutritionLevelByChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "SoilNutritionLevelBasicMethodRecalculationCoefficients",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ClimaticZones",
+        "childs": [
+            {
+                "title": "ClimaticZonePhotosyntheticallyActiveRadiations",
+                "childs": []
+            },
+            {
+                "title": "ClimaticZoneSortHybridWeightRatios",
+                "childs": []
+            },
+            {
+                "title": "Fields",
+                "childs": [
+                    {
+                        "title": "FieldAreaChanges",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldAssignments",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldFertilizerApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldFertilizerDeposits",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldHarmfulObjectSurveyActs",
+                        "childs": [
+                            {
+                                "title": "FieldHarmfulObjectSurveyActSamples",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldLimingMaterials",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldPerformancePoints",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldPlantProtectionApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldPurposeChanges",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldSoilCharacteristicSurveyActs",
+                        "childs": [
+                            {
+                                "title": "FieldSoilCharacteristicSurveyActSamples",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldSoilTypeAggregateSizeDistributionClasses",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldSortHybridApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelsProductivityByYears",
+                        "childs": []
+                    },
+                    {
+                        "title": "MaterialValuesStorageRoutes",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationExecutionHistoryOnFields",
+                        "childs": []
+                    },
+                    {
+                        "title": "ResponsibilityAreaFields",
+                        "childs": []
+                    },
+                    {
+                        "title": "StructuralPositionObjects",
+                        "childs": []
+                    },
+                    {
+                        "title": "YieldHistoricalDataByYears",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SortHybridClimaticZones",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "Clusters",
+        "childs": [
+            {
+                "title": "AdditionalOperationFuelConsumptionNorms",
+                "childs": []
+            },
+            {
+                "title": "ClusterActingSubstanceCalculationNormTypes",
+                "childs": []
+            },
+            {
+                "title": "ClusterBasicSoilAnalysisMethodByChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "ClusterDeposits",
+                "childs": []
+            },
+            {
+                "title": "ClusterLegalEntities",
+                "childs": []
+            },
+            {
+                "title": "ClusterLimingMaterialNormTypes",
+                "childs": []
+            },
+            {
+                "title": "ClusterMassiveCreatingLimitDistances",
+                "childs": []
+            },
+            {
+                "title": "CropOperationStageTechnicalMaps",
+                "childs": []
+            },
+            {
+                "title": "CropRealizationCosts",
+                "childs": []
+            },
+            {
+                "title": "DependentPays",
+                "childs": []
+            },
+            {
+                "title": "ElevatorServiceCosts",
+                "childs": []
+            },
+            {
+                "title": "FertilizerNitrogenSchemas",
+                "childs": [
+                    {
+                        "title": "FertilizerNitrogenSchemaVariants",
+                        "childs": [
+                            {
+                                "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                                "childs": [
+                                    {
+                                        "title": "FertilizerCropGrowthPhases",
+                                        "childs": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "GeoZones",
+                "childs": [
+                    {
+                        "title": "FieldAssignments",
+                        "childs": []
+                    },
+                    {
+                        "title": "ResponsibilityAreaGeoZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "StructuralPositionObjects",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "HiredOperationCosts",
+                "childs": []
+            },
+            {
+                "title": "HitchModelFuelConsumptionMetrics",
+                "childs": []
+            },
+            {
+                "title": "LocalIntroductionQuantities",
+                "childs": []
+            },
+            {
+                "title": "MachineryOperationStageTechnicalMaps",
+                "childs": []
+            },
+            {
+                "title": "OwnHitchOperationCosts",
+                "childs": []
+            },
+            {
+                "title": "ResponsibilityAreaClusters",
+                "childs": []
+            },
+            {
+                "title": "SeedBalances",
+                "childs": []
+            },
+            {
+                "title": "SeedGrowthNumberForAgronoms",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "Colors",
+        "childs": [
+            {
+                "title": "Crops",
+                "childs": [
+                    {
+                        "title": "AdditionalOperationFuelConsumptionNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropBiomassCalories",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCalendarOperationByPreviousCrops",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCalendarOperations",
+                        "childs": [
+                            {
+                                "title": "CropCalendarOperationByPreviousCrops",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropCharacteristicsByChemicalElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropComponentRatioYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCultivatingNumbers",
+                        "childs": [
+                            {
+                                "title": "CropMicroelementSystemPreparations",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropGrowthPhases",
+                        "childs": [
+                            {
+                                "title": "CropGrowthPhaseArisingCalendarPeriods",
+                                "childs": []
+                            },
+                            {
+                                "title": "CropGrowthPhasePlantProtectionUsages",
+                                "childs": [
+                                    {
+                                        "title": "CropGrowthPhaseProcessingKinds",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            },
+                            {
+                                "title": "MeasureLimitExecutionTerms",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropHarmfulObjectPlantProtectionSystems",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropOperationStageTechnicalMaps",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropOptimalReseedingTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropQualityGroups",
+                        "childs": [
+                            {
+                                "title": "CropQualityGroupStandards",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropQualityTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRealizationCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropReproductions",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRipenessGroups",
+                        "childs": [
+                            {
+                                "title": "SortHybrids",
+                                "childs": [
+                                    {
+                                        "title": "SeedGrowthNumberForAgronoms",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridAgroZones",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridClimaticZones",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridFirmnessToMonocultureRates",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridPhysicals",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridQualities",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridResistanceFactors",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridShortCharacteristics",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridSowingSchemes",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridSowingTerms",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridVegetations",
+                                        "childs": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropRotationLinkPriorities",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRotations",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRotationSchemeItems",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropShortCharacteristicTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSoilAgroChemicalCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSoilAgroPhysicCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingPurposes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingTermClassifications",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropStandardHumidities",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropStandardYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropTechnologyOperations",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropTranspirationCoefficients",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropVegetationPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropVegetationTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "ElevatorServiceCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemas",
+                        "childs": [
+                            {
+                                "title": "FertilizerNitrogenSchemaVariants",
+                                "childs": [
+                                    {
+                                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                                        "childs": [
+                                            {
+                                                "title": "FertilizerCropGrowthPhases",
+                                                "childs": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "MonocultureMaxNumberOfRepetitions",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationDependencyRules",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionAftereffectPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedBalances",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedGrowthNumberForAgronoms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatmentCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatments",
+                        "childs": [
+                            {
+                                "title": "SeedTreatmentCompositions",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SoilTreatmentSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybrids",
+                        "childs": [
+                            {
+                                "title": "SeedGrowthNumberForAgronoms",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridAgroZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridClimaticZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridFirmnessToHarmfulObjectRates",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridFirmnessToMonocultureRates",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridPhysicals",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridQualities",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridResistanceFactors",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridShortCharacteristics",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridSowingSchemes",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridSowingTerms",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridVegetations",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "GradationLevels",
+                "childs": []
+            },
+            {
+                "title": "SoilAnalysisMethodSoilNutritionLevelByChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "SoilDensityCategories",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ContainerCapacities",
+        "childs": [
+            {
+                "title": "PlantProtectionPassports",
+                "childs": [
+                    {
+                        "title": "PlantProtectionActingSubstances",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionAftereffectPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionPharmaceuticalForms",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "ContainerTypes",
+        "childs": [
+            {
+                "title": "PlantProtectionPassports",
+                "childs": [
+                    {
+                        "title": "PlantProtectionActingSubstances",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionAftereffectPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionPharmaceuticalForms",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Countries",
+        "childs": [
+            {
+                "title": "PlantProtectionManufacturers",
+                "childs": [
+                    {
+                        "title": "PlantProtectionPassports",
+                        "childs": [
+                            {
+                                "title": "PlantProtectionActingSubstances",
+                                "childs": []
+                            },
+                            {
+                                "title": "PlantProtectionAftereffectPeriods",
+                                "childs": []
+                            },
+                            {
+                                "title": "PlantProtectionPharmaceuticalForms",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "CropCalendarOperations",
+        "childs": [
+            {
+                "title": "CropCalendarOperationByPreviousCrops",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "CropCultivatingNumbers",
+        "childs": [
+            {
+                "title": "CropMicroelementSystemPreparations",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "CropGrowthPhasePlantProtectionUsages",
+        "childs": [
+            {
+                "title": "CropGrowthPhaseProcessingKinds",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "CropGrowthPhases",
+        "childs": [
+            {
+                "title": "CropGrowthPhaseArisingCalendarPeriods",
+                "childs": []
+            },
+            {
+                "title": "CropGrowthPhasePlantProtectionUsages",
+                "childs": [
+                    {
+                        "title": "CropGrowthPhaseProcessingKinds",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "FertilizerCropGrowthPhases",
+                "childs": []
+            },
+            {
+                "title": "MeasureLimitExecutionTerms",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "CropProcessingKinds",
+        "childs": [
+            {
+                "title": "CropGrowthPhaseProcessingKinds",
+                "childs": []
+            },
+            {
+                "title": "MeasureTypes",
+                "childs": [
+                    {
+                        "title": "CropTechnologyOperations",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerMeasureFertilizers",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                        "childs": [
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "MeasureLimitExecutionTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilTreatmentSchemes",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "CropQualityGroups",
+        "childs": [
+            {
+                "title": "CropQualityGroupStandards",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "CropRipenessGroups",
+        "childs": [
+            {
+                "title": "SortHybrids",
+                "childs": [
+                    {
+                        "title": "SeedGrowthNumberForAgronoms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridAgroZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridClimaticZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridFirmnessToMonocultureRates",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridPhysicals",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridQualities",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridResistanceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridShortCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridVegetations",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "CropRotationLinks",
+        "childs": [
+            {
+                "title": "CropRotationLinkPriorities",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "CropRotationSchemes",
+        "childs": [
+            {
+                "title": "CropRotationSchemeItems",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "CropRotationTypes",
+        "childs": [
+            {
+                "title": "CropAllocationSchemas",
+                "childs": []
+            },
+            {
+                "title": "CropRotations",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "Crops",
+        "childs": [
+            {
+                "title": "AdditionalOperationFuelConsumptionNorms",
+                "childs": []
+            },
+            {
+                "title": "CropBiomassCalories",
+                "childs": []
+            },
+            {
+                "title": "CropCalendarOperationByPreviousCrops",
+                "childs": []
+            },
+            {
+                "title": "CropCalendarOperations",
+                "childs": [
+                    {
+                        "title": "CropCalendarOperationByPreviousCrops",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "CropCharacteristicsByChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "CropComponentRatioYields",
+                "childs": []
+            },
+            {
+                "title": "CropCultivatingNumbers",
+                "childs": [
+                    {
+                        "title": "CropMicroelementSystemPreparations",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "CropGrowthPhases",
+                "childs": [
+                    {
+                        "title": "CropGrowthPhaseArisingCalendarPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropGrowthPhasePlantProtectionUsages",
+                        "childs": [
+                            {
+                                "title": "CropGrowthPhaseProcessingKinds",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FertilizerCropGrowthPhases",
+                        "childs": []
+                    },
+                    {
+                        "title": "MeasureLimitExecutionTerms",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "CropHarmfulObjectPlantProtectionSystems",
+                "childs": []
+            },
+            {
+                "title": "CropHarmfulObjects",
+                "childs": []
+            },
+            {
+                "title": "CropOperationStageTechnicalMaps",
+                "childs": []
+            },
+            {
+                "title": "CropOptimalReseedingTerms",
+                "childs": []
+            },
+            {
+                "title": "CropQualityGroups",
+                "childs": [
+                    {
+                        "title": "CropQualityGroupStandards",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "CropQualityTypes",
+                "childs": []
+            },
+            {
+                "title": "CropRealizationCosts",
+                "childs": []
+            },
+            {
+                "title": "CropReproductions",
+                "childs": []
+            },
+            {
+                "title": "CropRipenessGroups",
+                "childs": [
+                    {
+                        "title": "SortHybrids",
+                        "childs": [
+                            {
+                                "title": "SeedGrowthNumberForAgronoms",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridAgroZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridClimaticZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridFirmnessToHarmfulObjectRates",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridFirmnessToMonocultureRates",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridPhysicals",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridQualities",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridResistanceFactors",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridShortCharacteristics",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridSowingSchemes",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridSowingTerms",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridVegetations",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "CropRotationLinkPriorities",
+                "childs": []
+            },
+            {
+                "title": "CropRotations",
+                "childs": []
+            },
+            {
+                "title": "CropRotationSchemeItems",
+                "childs": []
+            },
+            {
+                "title": "CropShortCharacteristicTypes",
+                "childs": []
+            },
+            {
+                "title": "CropSoilAgroChemicalCharacteristics",
+                "childs": []
+            },
+            {
+                "title": "CropSoilAgroPhysicCharacteristics",
+                "childs": []
+            },
+            {
+                "title": "CropSowingPurposes",
+                "childs": []
+            },
+            {
+                "title": "CropSowingSchemes",
+                "childs": []
+            },
+            {
+                "title": "CropSowingTermClassifications",
+                "childs": []
+            },
+            {
+                "title": "CropStandardHumidities",
+                "childs": []
+            },
+            {
+                "title": "CropStandardYields",
+                "childs": []
+            },
+            {
+                "title": "CropTechnologyOperations",
+                "childs": []
+            },
+            {
+                "title": "CropTranspirationCoefficients",
+                "childs": []
+            },
+            {
+                "title": "CropVegetationPeriods",
+                "childs": []
+            },
+            {
+                "title": "CropVegetationTypes",
+                "childs": []
+            },
+            {
+                "title": "ElevatorServiceCosts",
+                "childs": []
+            },
+            {
+                "title": "FertilizerNitrogenSchemas",
+                "childs": [
+                    {
+                        "title": "FertilizerNitrogenSchemaVariants",
+                        "childs": [
+                            {
+                                "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                                "childs": [
+                                    {
+                                        "title": "FertilizerCropGrowthPhases",
+                                        "childs": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "FieldYields",
+                "childs": []
+            },
+            {
+                "title": "MonocultureMaxNumberOfRepetitions",
+                "childs": []
+            },
+            {
+                "title": "OperationChoiceFactors",
+                "childs": []
+            },
+            {
+                "title": "OperationDependencyRules",
+                "childs": []
+            },
+            {
+                "title": "PlantProtectionAftereffectPeriods",
+                "childs": []
+            },
+            {
+                "title": "SeedBalances",
+                "childs": []
+            },
+            {
+                "title": "SeedGrowthNumberForAgronoms",
+                "childs": []
+            },
+            {
+                "title": "SeedTreatmentCosts",
+                "childs": []
+            },
+            {
+                "title": "SeedTreatments",
+                "childs": [
+                    {
+                        "title": "SeedTreatmentCompositions",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SoilTreatmentSchemes",
+                "childs": []
+            },
+            {
+                "title": "SortHybridCosts",
+                "childs": []
+            },
+            {
+                "title": "SortHybrids",
+                "childs": [
+                    {
+                        "title": "SeedGrowthNumberForAgronoms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridAgroZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridClimaticZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridFirmnessToMonocultureRates",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridPhysicals",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridQualities",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridResistanceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridShortCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridVegetations",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "ElevatorServices",
+        "childs": [
+            {
+                "title": "ElevatorServiceCosts",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ExpenseArticles",
+        "childs": [
+            {
+                "title": "ExpenseArticleGroups",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ExpenseGroups",
+        "childs": [
+            {
+                "title": "ExpenseArticleGroups",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "FertilizerAggregateStates",
+        "childs": [
+            {
+                "title": "Fertilizers",
+                "childs": [
+                    {
+                        "title": "FertilizerChemicalElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerMeasureFertilizers",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                        "childs": [
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldFertilizerApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "MicroelementPreparations",
+                        "childs": [
+                            {
+                                "title": "CropMicroelementSystemPreparations",
+                                "childs": []
+                            },
+                            {
+                                "title": "InformationMicroelementPreparations",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatmentCompositions",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "OperationChoiceFactors",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "FertilizerApplicationMethods",
+        "childs": [
+            {
+                "title": "OperationChoiceFactors",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "FertilizerDirections",
+        "childs": [
+            {
+                "title": "Fertilizers",
+                "childs": [
+                    {
+                        "title": "FertilizerChemicalElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerMeasureFertilizers",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                        "childs": [
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldFertilizerApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "MicroelementPreparations",
+                        "childs": [
+                            {
+                                "title": "CropMicroelementSystemPreparations",
+                                "childs": []
+                            },
+                            {
+                                "title": "InformationMicroelementPreparations",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatmentCompositions",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "MeasureTypes",
+                "childs": [
+                    {
+                        "title": "CropTechnologyOperations",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerMeasureFertilizers",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                        "childs": [
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "MeasureLimitExecutionTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilTreatmentSchemes",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "FertilizerGroups",
+        "childs": [
+            {
+                "title": "Fertilizers",
+                "childs": [
+                    {
+                        "title": "FertilizerChemicalElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerMeasureFertilizers",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                        "childs": [
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldFertilizerApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "MicroelementPreparations",
+                        "childs": [
+                            {
+                                "title": "CropMicroelementSystemPreparations",
+                                "childs": []
+                            },
+                            {
+                                "title": "InformationMicroelementPreparations",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatmentCompositions",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "OperationChoiceFactors",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "FertilizerNitrogenApplicationMethodGroups",
+        "childs": [
+            {
+                "title": "FertilizerNitrogenApplicationMethods",
+                "childs": []
+            },
+            {
+                "title": "MeasureTypes",
+                "childs": [
+                    {
+                        "title": "CropTechnologyOperations",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerMeasureFertilizers",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                        "childs": [
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "MeasureLimitExecutionTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilTreatmentSchemes",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "FertilizerNitrogenSchemas",
+        "childs": [
+            {
+                "title": "FertilizerNitrogenSchemaVariants",
+                "childs": [
+                    {
+                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                        "childs": [
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+        "childs": [
+            {
+                "title": "FertilizerCropGrowthPhases",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "FertilizerNitrogenSchemaVariants",
+        "childs": [
+            {
+                "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                "childs": [
+                    {
+                        "title": "FertilizerCropGrowthPhases",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Fertilizers",
+        "childs": [
+            {
+                "title": "FertilizerChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "FertilizerCosts",
+                "childs": []
+            },
+            {
+                "title": "FertilizerMeasureFertilizers",
+                "childs": []
+            },
+            {
+                "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                "childs": [
+                    {
+                        "title": "FertilizerCropGrowthPhases",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "FieldFertilizerApplications",
+                "childs": []
+            },
+            {
+                "title": "MicroelementPreparations",
+                "childs": [
+                    {
+                        "title": "CropMicroelementSystemPreparations",
+                        "childs": []
+                    },
+                    {
+                        "title": "InformationMicroelementPreparations",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "OperationChoiceFactors",
+                "childs": []
+            },
+            {
+                "title": "SeedTreatmentCompositions",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "FieldHarmfulObjectSurveyActs",
+        "childs": [
+            {
+                "title": "FieldHarmfulObjectSurveyActSamples",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "FieldPurposes",
+        "childs": [
+            {
+                "title": "FieldPurposeChanges",
+                "childs": []
+            },
+            {
+                "title": "LocalIntroductionQuantities",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "FieldSoilCharacteristicSurveyActs",
+        "childs": [
+            {
+                "title": "FieldSoilCharacteristicSurveyActSamples",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "Fields",
+        "childs": [
+            {
+                "title": "FieldAreaChanges",
+                "childs": []
+            },
+            {
+                "title": "FieldAssignments",
+                "childs": []
+            },
+            {
+                "title": "FieldFertilizerApplications",
+                "childs": []
+            },
+            {
+                "title": "FieldFertilizerDeposits",
+                "childs": []
+            },
+            {
+                "title": "FieldHarmfulObjectSurveyActs",
+                "childs": [
+                    {
+                        "title": "FieldHarmfulObjectSurveyActSamples",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "FieldLimingMaterials",
+                "childs": []
+            },
+            {
+                "title": "FieldPerformancePoints",
+                "childs": []
+            },
+            {
+                "title": "FieldPlantProtectionApplications",
+                "childs": []
+            },
+            {
+                "title": "FieldPurposeChanges",
+                "childs": []
+            },
+            {
+                "title": "FieldSoilCharacteristicSurveyActs",
+                "childs": [
+                    {
+                        "title": "FieldSoilCharacteristicSurveyActSamples",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "FieldSoilTypeAggregateSizeDistributionClasses",
+                "childs": []
+            },
+            {
+                "title": "FieldSortHybridApplications",
+                "childs": []
+            },
+            {
+                "title": "FieldYields",
+                "childs": []
+            },
+            {
+                "title": "HitchModelsProductivityByYears",
+                "childs": []
+            },
+            {
+                "title": "MaterialValuesStorageRoutes",
+                "childs": []
+            },
+            {
+                "title": "OperationExecutionHistoryOnFields",
+                "childs": []
+            },
+            {
+                "title": "ResponsibilityAreaFields",
+                "childs": []
+            },
+            {
+                "title": "StructuralPositionObjects",
+                "childs": []
+            },
+            {
+                "title": "YieldHistoricalDataByYears",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "FieldWorkTypes",
+        "childs": [
+            {
+                "title": "CropCalendarOperations",
+                "childs": [
+                    {
+                        "title": "CropCalendarOperationByPreviousCrops",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "FuelTypes",
+        "childs": [
+            {
+                "title": "FuelCosts",
+                "childs": []
+            },
+            {
+                "title": "HitchModelFuelConsumptionMetrics",
+                "childs": []
+            },
+            {
+                "title": "MachineryInstances",
+                "childs": [
+                    {
+                        "title": "MachineryInstanceProductivities",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "OperationTypePerformanceNorms",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "GeoZones",
+        "childs": [
+            {
+                "title": "FieldAssignments",
+                "childs": []
+            },
+            {
+                "title": "ResponsibilityAreaGeoZones",
+                "childs": []
+            },
+            {
+                "title": "StructuralPositionObjects",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "HarmfulObjectPassports",
+        "childs": [
+            {
+                "title": "CropHarmfulObjects",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "HarmfulObjects",
+        "childs": [
+            {
+                "title": "CropHarmfulObjectPlantProtectionSystems",
+                "childs": []
+            },
+            {
+                "title": "FieldHarmfulObjectSurveyActSamples",
+                "childs": []
+            },
+            {
+                "title": "HarmfulObjectPassports",
+                "childs": [
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SortHybridFirmnessToHarmfulObjectRates",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "HarmfulObjectTypeDistributionDegrees",
+        "childs": [
+            {
+                "title": "FieldHarmfulObjectSurveyActSamples",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "HarmfulObjectTypes",
+        "childs": [
+            {
+                "title": "HarmfulObjects",
+                "childs": [
+                    {
+                        "title": "CropHarmfulObjectPlantProtectionSystems",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldHarmfulObjectSurveyActSamples",
+                        "childs": []
+                    },
+                    {
+                        "title": "HarmfulObjectPassports",
+                        "childs": [
+                            {
+                                "title": "CropHarmfulObjects",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "HarmfulObjectTypeDistributionDegrees",
+                "childs": [
+                    {
+                        "title": "FieldHarmfulObjectSurveyActSamples",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "PlantProtectionGroups",
+                "childs": [
+                    {
+                        "title": "PlantProtections",
+                        "childs": [
+                            {
+                                "title": "FieldPlantProtectionApplications",
+                                "childs": []
+                            },
+                            {
+                                "title": "InformationPlantProtections",
+                                "childs": []
+                            },
+                            {
+                                "title": "OperationChoiceFactors",
+                                "childs": []
+                            },
+                            {
+                                "title": "PlantProtectionCosts",
+                                "childs": []
+                            },
+                            {
+                                "title": "PlantProtectionPassports",
+                                "childs": [
+                                    {
+                                        "title": "PlantProtectionActingSubstances",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "PlantProtectionAftereffectPeriods",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "PlantProtectionPharmaceuticalForms",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "SeedTreatmentCompositions",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "HitchModelChoiceFactors",
+        "childs": [
+            {
+                "title": "HitchModelChoiceFactorPriorities",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "HitchModels",
+        "childs": [
+            {
+                "title": "CropHitchModels",
+                "childs": []
+            },
+            {
+                "title": "HitchModelElements",
+                "childs": []
+            },
+            {
+                "title": "HitchModelFuelConsumptionMetrics",
+                "childs": []
+            },
+            {
+                "title": "HitchModelPreparationMetrics",
+                "childs": []
+            },
+            {
+                "title": "HitchModelsProductivityByYears",
+                "childs": []
+            },
+            {
+                "title": "HitchModelTransportationCostMetrics",
+                "childs": []
+            },
+            {
+                "title": "OperationExecutionHistoryOnFields",
+                "childs": []
+            },
+            {
+                "title": "OwnHitchOperationCosts",
+                "childs": []
+            },
+            {
+                "title": "TransportingMetricHitchModels",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "LegalEntities",
+        "childs": [
+            {
+                "title": "ClusterLegalEntities",
+                "childs": []
+            },
+            {
+                "title": "FieldAssignments",
+                "childs": []
+            },
+            {
+                "title": "LegalEntitySortHybridBalances",
+                "childs": []
+            },
+            {
+                "title": "MachineryInstances",
+                "childs": [
+                    {
+                        "title": "MachineryInstanceProductivities",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SeedBalances",
+                "childs": []
+            },
+            {
+                "title": "StructuralPositions",
+                "childs": [
+                    {
+                        "title": "ResponsibilityAreaClusters",
+                        "childs": []
+                    },
+                    {
+                        "title": "ResponsibilityAreaFields",
+                        "childs": []
+                    },
+                    {
+                        "title": "ResponsibilityAreaGeoZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "StructuralPositionObjects",
+                        "childs": []
+                    },
+                    {
+                        "title": "UserStructuralPositions",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "LimingMaterialNormTypes",
+        "childs": [
+            {
+                "title": "ClusterLimingMaterialNormTypes",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "MachineryEmployments",
+        "childs": [
+            {
+                "title": "HitchModelTransportationCostMetrics",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "MachineryGroups",
+        "childs": [
+            {
+                "title": "MachinerySubGroups",
+                "childs": [
+                    {
+                        "title": "MachineryModels",
+                        "childs": [
+                            {
+                                "title": "HitchModelElements",
+                                "childs": []
+                            },
+                            {
+                                "title": "MachineryInstances",
+                                "childs": [
+                                    {
+                                        "title": "MachineryInstanceProductivities",
+                                        "childs": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MachineryInstances",
+        "childs": [
+            {
+                "title": "MachineryInstanceProductivities",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "MachineryManufacturers",
+        "childs": [
+            {
+                "title": "MachineryModels",
+                "childs": [
+                    {
+                        "title": "HitchModelElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "MachineryInstances",
+                        "childs": [
+                            {
+                                "title": "MachineryInstanceProductivities",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MachineryModels",
+        "childs": [
+            {
+                "title": "HitchModelElements",
+                "childs": []
+            },
+            {
+                "title": "MachineryInstances",
+                "childs": [
+                    {
+                        "title": "MachineryInstanceProductivities",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MachineryPreparations",
+        "childs": [
+            {
+                "title": "HitchModelPreparationMetrics",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "MachineryPurposes",
+        "childs": [
+            {
+                "title": "MachineryModels",
+                "childs": [
+                    {
+                        "title": "HitchModelElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "MachineryInstances",
+                        "childs": [
+                            {
+                                "title": "MachineryInstanceProductivities",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MachinerySections",
+        "childs": [
+            {
+                "title": "MachineryGroups",
+                "childs": [
+                    {
+                        "title": "MachinerySubGroups",
+                        "childs": [
+                            {
+                                "title": "MachineryModels",
+                                "childs": [
+                                    {
+                                        "title": "HitchModelElements",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "MachineryInstances",
+                                        "childs": [
+                                            {
+                                                "title": "MachineryInstanceProductivities",
+                                                "childs": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MachinerySources",
+        "childs": [
+            {
+                "title": "OperationTypes",
+                "childs": [
+                    {
+                        "title": "AdditionalOperationFuelConsumptionNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropHitchModels",
+                        "childs": []
+                    },
+                    {
+                        "title": "DependentPays",
+                        "childs": []
+                    },
+                    {
+                        "title": "HiredOperationCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelChoiceFactorPriorities",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelFuelConsumptionMetrics",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelsProductivityByYears",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationExecutionHistoryOnFields",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationSubTypes",
+                        "childs": [
+                            {
+                                "title": "CropCalendarOperations",
+                                "childs": [
+                                    {
+                                        "title": "CropCalendarOperationByPreviousCrops",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "OperationChoiceFactors",
+                                "childs": []
+                            },
+                            {
+                                "title": "OperationDependencyRules",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationTypePerformanceNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "OwnHitchOperationCosts",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MachinerySubGroups",
+        "childs": [
+            {
+                "title": "MachineryModels",
+                "childs": [
+                    {
+                        "title": "HitchModelElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "MachineryInstances",
+                        "childs": [
+                            {
+                                "title": "MachineryInstanceProductivities",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MassiveFormationTypes",
+        "childs": [
+            {
+                "title": "GeoZones",
+                "childs": [
+                    {
+                        "title": "FieldAssignments",
+                        "childs": []
+                    },
+                    {
+                        "title": "ResponsibilityAreaGeoZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "StructuralPositionObjects",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MaterialValuesStorages",
+        "childs": [
+            {
+                "title": "MaterialValuesStorageRoutes",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "MeaningfulCharacteristics",
+        "childs": [
+            {
+                "title": "CropQualityGroups",
+                "childs": [
+                    {
+                        "title": "CropQualityGroupStandards",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "Crops",
+                "childs": [
+                    {
+                        "title": "AdditionalOperationFuelConsumptionNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropBiomassCalories",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCalendarOperationByPreviousCrops",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCalendarOperations",
+                        "childs": [
+                            {
+                                "title": "CropCalendarOperationByPreviousCrops",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropCharacteristicsByChemicalElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropComponentRatioYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCultivatingNumbers",
+                        "childs": [
+                            {
+                                "title": "CropMicroelementSystemPreparations",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropGrowthPhases",
+                        "childs": [
+                            {
+                                "title": "CropGrowthPhaseArisingCalendarPeriods",
+                                "childs": []
+                            },
+                            {
+                                "title": "CropGrowthPhasePlantProtectionUsages",
+                                "childs": [
+                                    {
+                                        "title": "CropGrowthPhaseProcessingKinds",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            },
+                            {
+                                "title": "MeasureLimitExecutionTerms",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropHarmfulObjectPlantProtectionSystems",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropOperationStageTechnicalMaps",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropOptimalReseedingTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropQualityGroups",
+                        "childs": [
+                            {
+                                "title": "CropQualityGroupStandards",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropQualityTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRealizationCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropReproductions",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRipenessGroups",
+                        "childs": [
+                            {
+                                "title": "SortHybrids",
+                                "childs": [
+                                    {
+                                        "title": "SeedGrowthNumberForAgronoms",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridAgroZones",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridClimaticZones",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridFirmnessToMonocultureRates",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridPhysicals",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridQualities",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridResistanceFactors",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridShortCharacteristics",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridSowingSchemes",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridSowingTerms",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridVegetations",
+                                        "childs": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropRotationLinkPriorities",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRotations",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRotationSchemeItems",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropShortCharacteristicTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSoilAgroChemicalCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSoilAgroPhysicCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingPurposes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingTermClassifications",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropStandardHumidities",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropStandardYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropTechnologyOperations",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropTranspirationCoefficients",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropVegetationPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropVegetationTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "ElevatorServiceCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemas",
+                        "childs": [
+                            {
+                                "title": "FertilizerNitrogenSchemaVariants",
+                                "childs": [
+                                    {
+                                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                                        "childs": [
+                                            {
+                                                "title": "FertilizerCropGrowthPhases",
+                                                "childs": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "MonocultureMaxNumberOfRepetitions",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationDependencyRules",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionAftereffectPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedBalances",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedGrowthNumberForAgronoms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatmentCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatments",
+                        "childs": [
+                            {
+                                "title": "SeedTreatmentCompositions",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SoilTreatmentSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybrids",
+                        "childs": [
+                            {
+                                "title": "SeedGrowthNumberForAgronoms",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridAgroZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridClimaticZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridFirmnessToHarmfulObjectRates",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridFirmnessToMonocultureRates",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridPhysicals",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridQualities",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridResistanceFactors",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridShortCharacteristics",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridSowingSchemes",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridSowingTerms",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridVegetations",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MeasureDepths",
+        "childs": [
+            {
+                "title": "OperationChoiceFactors",
+                "childs": []
+            },
+            {
+                "title": "SoilTreatmentSchemes",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "MeasureKinds",
+        "childs": [
+            {
+                "title": "MeasureTypes",
+                "childs": [
+                    {
+                        "title": "CropTechnologyOperations",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerMeasureFertilizers",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                        "childs": [
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "MeasureLimitExecutionTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilTreatmentSchemes",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MeasureTypes",
+        "childs": [
+            {
+                "title": "CropTechnologyOperations",
+                "childs": []
+            },
+            {
+                "title": "FertilizerMeasureFertilizers",
+                "childs": []
+            },
+            {
+                "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                "childs": [
+                    {
+                        "title": "FertilizerCropGrowthPhases",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "MeasureLimitExecutionTerms",
+                "childs": []
+            },
+            {
+                "title": "OperationChoiceFactors",
+                "childs": []
+            },
+            {
+                "title": "SoilTreatmentSchemes",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "MeasureUnits",
+        "childs": [
+            {
+                "title": "ClusterMassiveCreatingLimitDistances",
+                "childs": []
+            },
+            {
+                "title": "CompoundActiveSubstances",
+                "childs": []
+            },
+            {
+                "title": "Crops",
+                "childs": [
+                    {
+                        "title": "AdditionalOperationFuelConsumptionNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropBiomassCalories",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCalendarOperationByPreviousCrops",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCalendarOperations",
+                        "childs": [
+                            {
+                                "title": "CropCalendarOperationByPreviousCrops",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropCharacteristicsByChemicalElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropComponentRatioYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCultivatingNumbers",
+                        "childs": [
+                            {
+                                "title": "CropMicroelementSystemPreparations",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropGrowthPhases",
+                        "childs": [
+                            {
+                                "title": "CropGrowthPhaseArisingCalendarPeriods",
+                                "childs": []
+                            },
+                            {
+                                "title": "CropGrowthPhasePlantProtectionUsages",
+                                "childs": [
+                                    {
+                                        "title": "CropGrowthPhaseProcessingKinds",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            },
+                            {
+                                "title": "MeasureLimitExecutionTerms",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropHarmfulObjectPlantProtectionSystems",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropOperationStageTechnicalMaps",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropOptimalReseedingTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropQualityGroups",
+                        "childs": [
+                            {
+                                "title": "CropQualityGroupStandards",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropQualityTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRealizationCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropReproductions",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRipenessGroups",
+                        "childs": [
+                            {
+                                "title": "SortHybrids",
+                                "childs": [
+                                    {
+                                        "title": "SeedGrowthNumberForAgronoms",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridAgroZones",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridClimaticZones",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridFirmnessToMonocultureRates",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridPhysicals",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridQualities",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridResistanceFactors",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridShortCharacteristics",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridSowingSchemes",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridSowingTerms",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridVegetations",
+                                        "childs": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropRotationLinkPriorities",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRotations",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRotationSchemeItems",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropShortCharacteristicTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSoilAgroChemicalCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSoilAgroPhysicCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingPurposes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingTermClassifications",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropStandardHumidities",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropStandardYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropTechnologyOperations",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropTranspirationCoefficients",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropVegetationPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropVegetationTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "ElevatorServiceCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemas",
+                        "childs": [
+                            {
+                                "title": "FertilizerNitrogenSchemaVariants",
+                                "childs": [
+                                    {
+                                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                                        "childs": [
+                                            {
+                                                "title": "FertilizerCropGrowthPhases",
+                                                "childs": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "MonocultureMaxNumberOfRepetitions",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationDependencyRules",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionAftereffectPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedBalances",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedGrowthNumberForAgronoms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatmentCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatments",
+                        "childs": [
+                            {
+                                "title": "SeedTreatmentCompositions",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SoilTreatmentSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybrids",
+                        "childs": [
+                            {
+                                "title": "SeedGrowthNumberForAgronoms",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridAgroZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridClimaticZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridFirmnessToHarmfulObjectRates",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridFirmnessToMonocultureRates",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridPhysicals",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridQualities",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridResistanceFactors",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridShortCharacteristics",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridSowingSchemes",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridSowingTerms",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridVegetations",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "ElevatorServiceCosts",
+                "childs": []
+            },
+            {
+                "title": "FertilizerChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "Fertilizers",
+                "childs": [
+                    {
+                        "title": "FertilizerChemicalElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerMeasureFertilizers",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                        "childs": [
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldFertilizerApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "MicroelementPreparations",
+                        "childs": [
+                            {
+                                "title": "CropMicroelementSystemPreparations",
+                                "childs": []
+                            },
+                            {
+                                "title": "InformationMicroelementPreparations",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatmentCompositions",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "FieldSortHybridApplications",
+                "childs": []
+            },
+            {
+                "title": "FuelTypes",
+                "childs": [
+                    {
+                        "title": "FuelCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelFuelConsumptionMetrics",
+                        "childs": []
+                    },
+                    {
+                        "title": "MachineryInstances",
+                        "childs": [
+                            {
+                                "title": "MachineryInstanceProductivities",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationTypePerformanceNorms",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "MeasureUnitExchanges",
+                "childs": []
+            },
+            {
+                "title": "OperationTypes",
+                "childs": [
+                    {
+                        "title": "AdditionalOperationFuelConsumptionNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropHitchModels",
+                        "childs": []
+                    },
+                    {
+                        "title": "DependentPays",
+                        "childs": []
+                    },
+                    {
+                        "title": "HiredOperationCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelChoiceFactorPriorities",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelFuelConsumptionMetrics",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelsProductivityByYears",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationExecutionHistoryOnFields",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationSubTypes",
+                        "childs": [
+                            {
+                                "title": "CropCalendarOperations",
+                                "childs": [
+                                    {
+                                        "title": "CropCalendarOperationByPreviousCrops",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "OperationChoiceFactors",
+                                "childs": []
+                            },
+                            {
+                                "title": "OperationDependencyRules",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationTypePerformanceNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "OwnHitchOperationCosts",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "PhysicalTypes",
+                "childs": [
+                    {
+                        "title": "SortHybridPhysicals",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "PlantProtectionCosts",
+                "childs": []
+            },
+            {
+                "title": "PlantProtections",
+                "childs": [
+                    {
+                        "title": "FieldPlantProtectionApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "InformationPlantProtections",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionPassports",
+                        "childs": [
+                            {
+                                "title": "PlantProtectionActingSubstances",
+                                "childs": []
+                            },
+                            {
+                                "title": "PlantProtectionAftereffectPeriods",
+                                "childs": []
+                            },
+                            {
+                                "title": "PlantProtectionPharmaceuticalForms",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SeedTreatmentCompositions",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "QualityTypes",
+                "childs": [
+                    {
+                        "title": "CropQualityGroupStandards",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropQualityTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridQualities",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SeedBalances",
+                "childs": []
+            },
+            {
+                "title": "SeedGrowthNumberForAgronoms",
+                "childs": []
+            },
+            {
+                "title": "SoilAgroChemicalCharacteristics",
+                "childs": [
+                    {
+                        "title": "CropSoilAgroChemicalCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "GradationLevels",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilAnalysisMethodSoilNutritionLevelByChemicalElements",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SoilCharacteristics",
+                "childs": [
+                    {
+                        "title": "CropSoilAgroPhysicCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldSoilCharacteristicSurveyActSamples",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilCharacteristicClassifications",
+                        "childs": [
+                            {
+                                "title": "FieldSoilCharacteristicSurveyActSamples",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SoilCharacteristicNorms",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SortHybridCosts",
+                "childs": []
+            },
+            {
+                "title": "SortHybrids",
+                "childs": [
+                    {
+                        "title": "SeedGrowthNumberForAgronoms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridAgroZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridClimaticZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridFirmnessToMonocultureRates",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridPhysicals",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridQualities",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridResistanceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridShortCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridVegetations",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SowingSchemes",
+                "childs": [
+                    {
+                        "title": "CropSowingSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingSchemes",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "VegetationTypes",
+                "childs": [
+                    {
+                        "title": "CropVegetationTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridVegetations",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MicroelementPreparations",
+        "childs": [
+            {
+                "title": "CropMicroelementSystemPreparations",
+                "childs": []
+            },
+            {
+                "title": "InformationMicroelementPreparations",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "MicroelementSystems",
+        "childs": [
+            {
+                "title": "CropCultivatingNumbers",
+                "childs": [
+                    {
+                        "title": "CropMicroelementSystemPreparations",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MicroFertilizerTargetApplications",
+        "childs": [
+            {
+                "title": "Fertilizers",
+                "childs": [
+                    {
+                        "title": "FertilizerChemicalElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerMeasureFertilizers",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                        "childs": [
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldFertilizerApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "MicroelementPreparations",
+                        "childs": [
+                            {
+                                "title": "CropMicroelementSystemPreparations",
+                                "childs": []
+                            },
+                            {
+                                "title": "InformationMicroelementPreparations",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatmentCompositions",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "NomenclatureGroups",
+        "childs": [
+            {
+                "title": "SupplyTerms",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "OperationalRightTypes",
+        "childs": [
+            {
+                "title": "OperationalRights",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "OperationGroupDependencies",
+        "childs": [
+            {
+                "title": "OperationTypeDependencies",
+                "childs": [
+                    {
+                        "title": "OperationDependencyRules",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "OperationGroups",
+        "childs": [
+            {
+                "title": "OperationTypes",
+                "childs": [
+                    {
+                        "title": "AdditionalOperationFuelConsumptionNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropHitchModels",
+                        "childs": []
+                    },
+                    {
+                        "title": "DependentPays",
+                        "childs": []
+                    },
+                    {
+                        "title": "HiredOperationCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelChoiceFactorPriorities",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelFuelConsumptionMetrics",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelsProductivityByYears",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationExecutionHistoryOnFields",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationSubTypes",
+                        "childs": [
+                            {
+                                "title": "CropCalendarOperations",
+                                "childs": [
+                                    {
+                                        "title": "CropCalendarOperationByPreviousCrops",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "OperationChoiceFactors",
+                                "childs": []
+                            },
+                            {
+                                "title": "OperationDependencyRules",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationTypePerformanceNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "OwnHitchOperationCosts",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "OperationPurposes",
+        "childs": [
+            {
+                "title": "OperationTypes",
+                "childs": [
+                    {
+                        "title": "AdditionalOperationFuelConsumptionNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropHitchModels",
+                        "childs": []
+                    },
+                    {
+                        "title": "DependentPays",
+                        "childs": []
+                    },
+                    {
+                        "title": "HiredOperationCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelChoiceFactorPriorities",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelFuelConsumptionMetrics",
+                        "childs": []
+                    },
+                    {
+                        "title": "HitchModelsProductivityByYears",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationExecutionHistoryOnFields",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationSubTypes",
+                        "childs": [
+                            {
+                                "title": "CropCalendarOperations",
+                                "childs": [
+                                    {
+                                        "title": "CropCalendarOperationByPreviousCrops",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "OperationChoiceFactors",
+                                "childs": []
+                            },
+                            {
+                                "title": "OperationDependencyRules",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationTypePerformanceNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "OwnHitchOperationCosts",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "OperationSigns",
+        "childs": [
+            {
+                "title": "OperationSubTypes",
+                "childs": [
+                    {
+                        "title": "CropCalendarOperations",
+                        "childs": [
+                            {
+                                "title": "CropCalendarOperationByPreviousCrops",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationDependencyRules",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "OperationStageTechnicalMaps",
+        "childs": [
+            {
+                "title": "CropCalendarOperations",
+                "childs": [
+                    {
+                        "title": "CropCalendarOperationByPreviousCrops",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "CropOperationStageTechnicalMaps",
+                "childs": []
+            },
+            {
+                "title": "MachineryOperationStageTechnicalMaps",
+                "childs": []
+            },
+            {
+                "title": "SoilTreatmentSchemes",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "OperationSubTypes",
+        "childs": [
+            {
+                "title": "CropCalendarOperations",
+                "childs": [
+                    {
+                        "title": "CropCalendarOperationByPreviousCrops",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "OperationChoiceFactors",
+                "childs": []
+            },
+            {
+                "title": "OperationDependencyRules",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "OperationTypeDependencies",
+        "childs": [
+            {
+                "title": "OperationDependencyRules",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "OperationTypes",
+        "childs": [
+            {
+                "title": "AdditionalOperationFuelConsumptionNorms",
+                "childs": []
+            },
+            {
+                "title": "CropHitchModels",
+                "childs": []
+            },
+            {
+                "title": "DependentPays",
+                "childs": []
+            },
+            {
+                "title": "HiredOperationCosts",
+                "childs": []
+            },
+            {
+                "title": "HitchModelChoiceFactorPriorities",
+                "childs": []
+            },
+            {
+                "title": "HitchModelFuelConsumptionMetrics",
+                "childs": []
+            },
+            {
+                "title": "HitchModelsProductivityByYears",
+                "childs": []
+            },
+            {
+                "title": "OperationExecutionHistoryOnFields",
+                "childs": []
+            },
+            {
+                "title": "OperationSubTypes",
+                "childs": [
+                    {
+                        "title": "CropCalendarOperations",
+                        "childs": [
+                            {
+                                "title": "CropCalendarOperationByPreviousCrops",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationDependencyRules",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "OperationTypePerformanceNorms",
+                "childs": []
+            },
+            {
+                "title": "OwnHitchOperationCosts",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "PharmaceuticalForms",
+        "childs": [
+            {
+                "title": "PlantProtectionPharmaceuticalForms",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "PhysicalTypes",
+        "childs": [
+            {
+                "title": "SortHybridPhysicals",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "PlantProtectionGroups",
+        "childs": [
+            {
+                "title": "PlantProtections",
+                "childs": [
+                    {
+                        "title": "FieldPlantProtectionApplications",
+                        "childs": []
+                    },
+                    {
+                        "title": "InformationPlantProtections",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionPassports",
+                        "childs": [
+                            {
+                                "title": "PlantProtectionActingSubstances",
+                                "childs": []
+                            },
+                            {
+                                "title": "PlantProtectionAftereffectPeriods",
+                                "childs": []
+                            },
+                            {
+                                "title": "PlantProtectionPharmaceuticalForms",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SeedTreatmentCompositions",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "PlantProtectionManufacturers",
+        "childs": [
+            {
+                "title": "PlantProtectionPassports",
+                "childs": [
+                    {
+                        "title": "PlantProtectionActingSubstances",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionAftereffectPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionPharmaceuticalForms",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "PlantProtectionPassports",
+        "childs": [
+            {
+                "title": "PlantProtectionActingSubstances",
+                "childs": []
+            },
+            {
+                "title": "PlantProtectionAftereffectPeriods",
+                "childs": []
+            },
+            {
+                "title": "PlantProtectionPharmaceuticalForms",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "PlantProtectionSystemNumbers",
+        "childs": [
+            {
+                "title": "CropHarmfulObjectPlantProtectionSystems",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "PlantProtections",
+        "childs": [
+            {
+                "title": "FieldPlantProtectionApplications",
+                "childs": []
+            },
+            {
+                "title": "InformationPlantProtections",
+                "childs": []
+            },
+            {
+                "title": "OperationChoiceFactors",
+                "childs": []
+            },
+            {
+                "title": "PlantProtectionCosts",
+                "childs": []
+            },
+            {
+                "title": "PlantProtectionPassports",
+                "childs": [
+                    {
+                        "title": "PlantProtectionActingSubstances",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionAftereffectPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionPharmaceuticalForms",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SeedTreatmentCompositions",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ProcessingNumbers",
+        "childs": [
+            {
+                "title": "CropCultivatingNumbers",
+                "childs": [
+                    {
+                        "title": "CropMicroelementSystemPreparations",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "CropGrowthPhaseProcessingKinds",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ProcessStageSteps",
+        "childs": [
+            {
+                "title": "OperationalRights",
+                "childs": []
+            },
+            {
+                "title": "PlanningProcessApprovalHierarchies",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ProcessStages",
+        "childs": [
+            {
+                "title": "ProcessStageSteps",
+                "childs": [
+                    {
+                        "title": "OperationalRights",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlanningProcessApprovalHierarchies",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "QualityTypes",
+        "childs": [
+            {
+                "title": "CropQualityGroupStandards",
+                "childs": []
+            },
+            {
+                "title": "CropQualityTypes",
+                "childs": []
+            },
+            {
+                "title": "SortHybridQualities",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "RegionalDirections",
+        "childs": [
+            {
+                "title": "GeoZones",
+                "childs": [
+                    {
+                        "title": "FieldAssignments",
+                        "childs": []
+                    },
+                    {
+                        "title": "ResponsibilityAreaGeoZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "StructuralPositionObjects",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Reproductions",
+        "childs": [
+            {
+                "title": "CropReproductions",
+                "childs": []
+            },
+            {
+                "title": "SeedBalances",
+                "childs": []
+            },
+            {
+                "title": "SeedGrowthNumberForAgronoms",
+                "childs": []
+            },
+            {
+                "title": "SortHybridCosts",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ResistanceFactors",
+        "childs": [
+            {
+                "title": "SortHybridResistanceFactors",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "Restrictions",
+        "childs": [
+            {
+                "title": "HarmfulObjects",
+                "childs": [
+                    {
+                        "title": "CropHarmfulObjectPlantProtectionSystems",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldHarmfulObjectSurveyActSamples",
+                        "childs": []
+                    },
+                    {
+                        "title": "HarmfulObjectPassports",
+                        "childs": [
+                            {
+                                "title": "CropHarmfulObjects",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SoilAgroChemicalCharacteristics",
+                "childs": [
+                    {
+                        "title": "CropSoilAgroChemicalCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "GradationLevels",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilAnalysisMethodSoilNutritionLevelByChemicalElements",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SoilCharacteristics",
+                "childs": [
+                    {
+                        "title": "CropSoilAgroPhysicCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldSoilCharacteristicSurveyActSamples",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilCharacteristicClassifications",
+                        "childs": [
+                            {
+                                "title": "FieldSoilCharacteristicSurveyActSamples",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SoilCharacteristicNorms",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "RestrictionTypes",
+        "childs": [
+            {
+                "title": "Restrictions",
+                "childs": [
+                    {
+                        "title": "HarmfulObjects",
+                        "childs": [
+                            {
+                                "title": "CropHarmfulObjectPlantProtectionSystems",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldHarmfulObjectSurveyActSamples",
+                                "childs": []
+                            },
+                            {
+                                "title": "HarmfulObjectPassports",
+                                "childs": [
+                                    {
+                                        "title": "CropHarmfulObjects",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "SortHybridFirmnessToHarmfulObjectRates",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SoilAgroChemicalCharacteristics",
+                        "childs": [
+                            {
+                                "title": "CropSoilAgroChemicalCharacteristics",
+                                "childs": []
+                            },
+                            {
+                                "title": "GradationLevels",
+                                "childs": []
+                            },
+                            {
+                                "title": "SoilAnalysisMethodSoilNutritionLevelByChemicalElements",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SoilCharacteristics",
+                        "childs": [
+                            {
+                                "title": "CropSoilAgroPhysicCharacteristics",
+                                "childs": []
+                            },
+                            {
+                                "title": "FieldSoilCharacteristicSurveyActSamples",
+                                "childs": []
+                            },
+                            {
+                                "title": "SoilCharacteristicClassifications",
+                                "childs": [
+                                    {
+                                        "title": "FieldSoilCharacteristicSurveyActSamples",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "SoilCharacteristicNorms",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Roles",
+        "childs": [
+            {
+                "title": "OperationalRights",
+                "childs": []
+            },
+            {
+                "title": "PlanningProcessApprovalHierarchies",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SeedOrigins",
+        "childs": [
+            {
+                "title": "SeedBalances",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SeedPurposes",
+        "childs": [
+            {
+                "title": "SeedBalances",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SeedTreatmentSites",
+        "childs": [
+            {
+                "title": "SeedTreatmentCosts",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SeedTreatments",
+        "childs": [
+            {
+                "title": "SeedTreatmentCompositions",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "ShortCharacteristicTypes",
+        "childs": [
+            {
+                "title": "CropShortCharacteristicTypes",
+                "childs": []
+            },
+            {
+                "title": "SortHybridShortCharacteristics",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SoilAggregateSizeDistributionClasses",
+        "childs": [
+            {
+                "title": "FertilizerAdjustmentFactorSoilTextures",
+                "childs": []
+            },
+            {
+                "title": "FieldSoilTypeAggregateSizeDistributionClasses",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SoilAgroChemicalCharacteristics",
+        "childs": [
+            {
+                "title": "CropSoilAgroChemicalCharacteristics",
+                "childs": []
+            },
+            {
+                "title": "GradationLevels",
+                "childs": []
+            },
+            {
+                "title": "SoilAnalysisMethodSoilNutritionLevelByChemicalElements",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SoilAnalysisMethods",
+        "childs": [
+            {
+                "title": "ClusterBasicSoilAnalysisMethodByChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "GradationLevels",
+                "childs": []
+            },
+            {
+                "title": "SoilAnalysisMethodSoilNutritionLevelByChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "SoilNutritionLevelBasicMethodRecalculationCoefficients",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SoilCharacteristicClassifications",
+        "childs": [
+            {
+                "title": "FieldSoilCharacteristicSurveyActSamples",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SoilCharacteristicGradationLevels",
+        "childs": [
+            {
+                "title": "FieldSoilCharacteristicSurveyActSamples",
+                "childs": []
+            },
+            {
+                "title": "GradationLevels",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SoilCharacteristicGradationTypes",
+        "childs": [
+            {
+                "title": "SoilAgroChemicalCharacteristics",
+                "childs": [
+                    {
+                        "title": "CropSoilAgroChemicalCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "GradationLevels",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilAnalysisMethodSoilNutritionLevelByChemicalElements",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SoilCharacteristicGradationLevels",
+                "childs": [
+                    {
+                        "title": "FieldSoilCharacteristicSurveyActSamples",
+                        "childs": []
+                    },
+                    {
+                        "title": "GradationLevels",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "SoilCharacteristics",
+        "childs": [
+            {
+                "title": "CropSoilAgroPhysicCharacteristics",
+                "childs": []
+            },
+            {
+                "title": "FieldSoilCharacteristicSurveyActSamples",
+                "childs": []
+            },
+            {
+                "title": "SoilCharacteristicClassifications",
+                "childs": [
+                    {
+                        "title": "FieldSoilCharacteristicSurveyActSamples",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "SoilCharacteristicNorms",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SoilCharacteristicTypes",
+        "childs": [
+            {
+                "title": "SoilAgroChemicalCharacteristics",
+                "childs": [
+                    {
+                        "title": "CropSoilAgroChemicalCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "GradationLevels",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilAnalysisMethodSoilNutritionLevelByChemicalElements",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "SoilNutritionLevels",
+        "childs": [
+            {
+                "title": "FertilizerAdjustmentFactorsSoilPhosphoruses",
+                "childs": []
+            },
+            {
+                "title": "FertilizerNitrogenNutrientLevelAdjustmentFactors",
+                "childs": []
+            },
+            {
+                "title": "SoilAnalysisMethodSoilNutritionLevelByChemicalElements",
+                "childs": []
+            },
+            {
+                "title": "SoilNutritionLevelBasicMethodRecalculationCoefficients",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SoilSalinityTypes",
+        "childs": [
+            {
+                "title": "GradationLevels",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SoilTypeFertilityGroups",
+        "childs": [
+            {
+                "title": "CropStandardYields",
+                "childs": []
+            },
+            {
+                "title": "SoilTypes",
+                "childs": [
+                    {
+                        "title": "FieldSoilCharacteristicSurveyActSamples",
+                        "childs": []
+                    },
+                    {
+                        "title": "FieldSoilTypeAggregateSizeDistributionClasses",
+                        "childs": []
+                    },
+                    {
+                        "title": "SoilCharacteristicNorms",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "SoilTypes",
+        "childs": [
+            {
+                "title": "FieldSoilCharacteristicSurveyActSamples",
+                "childs": []
+            },
+            {
+                "title": "FieldSoilTypeAggregateSizeDistributionClasses",
+                "childs": []
+            },
+            {
+                "title": "SoilCharacteristicNorms",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SortHybrids",
+        "childs": [
+            {
+                "title": "SeedGrowthNumberForAgronoms",
+                "childs": []
+            },
+            {
+                "title": "SortHybridAgroZones",
+                "childs": []
+            },
+            {
+                "title": "SortHybridClimaticZones",
+                "childs": []
+            },
+            {
+                "title": "SortHybridFirmnessToHarmfulObjectRates",
+                "childs": []
+            },
+            {
+                "title": "SortHybridFirmnessToMonocultureRates",
+                "childs": []
+            },
+            {
+                "title": "SortHybridPhysicals",
+                "childs": []
+            },
+            {
+                "title": "SortHybridQualities",
+                "childs": []
+            },
+            {
+                "title": "SortHybridResistanceFactors",
+                "childs": []
+            },
+            {
+                "title": "SortHybridShortCharacteristics",
+                "childs": []
+            },
+            {
+                "title": "SortHybridSowingSchemes",
+                "childs": []
+            },
+            {
+                "title": "SortHybridSowingTerms",
+                "childs": []
+            },
+            {
+                "title": "SortHybridVegetations",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SortHybridTypes",
+        "childs": [
+            {
+                "title": "CropCultivatingNumbers",
+                "childs": [
+                    {
+                        "title": "CropMicroelementSystemPreparations",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "CropGrowthPhaseProcessingKinds",
+                "childs": []
+            },
+            {
+                "title": "CropHarmfulObjectPlantProtectionSystems",
+                "childs": []
+            },
+            {
+                "title": "SortHybrids",
+                "childs": [
+                    {
+                        "title": "SeedGrowthNumberForAgronoms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridAgroZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridClimaticZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridFirmnessToMonocultureRates",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridPhysicals",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridQualities",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridResistanceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridShortCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridVegetations",
+                        "childs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "SortHybridWeightRatios",
+        "childs": [
+            {
+                "title": "ClimaticZoneSortHybridWeightRatios",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "Sorts",
+        "childs": [
+            {
+                "title": "FieldSortHybridApplications",
+                "childs": []
+            },
+            {
+                "title": "LegalEntitySortHybridBalances",
+                "childs": []
+            },
+            {
+                "title": "SeedBalances",
+                "childs": []
+            },
+            {
+                "title": "SortHybridCosts",
+                "childs": []
+            },
+            {
+                "title": "SortHybrids",
+                "childs": [
+                    {
+                        "title": "SeedGrowthNumberForAgronoms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridAgroZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridClimaticZones",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridFirmnessToMonocultureRates",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridPhysicals",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridQualities",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridResistanceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridShortCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridSowingTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridVegetations",
+                        "childs": []
+                    }
+                ]
+            },
+            {
+                "title": "YieldHistoricalDataByYears",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SowingPurposes",
+        "childs": [
+            {
+                "title": "CropSowingPurposes",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SowingSchemes",
+        "childs": [
+            {
+                "title": "CropSowingSchemes",
+                "childs": []
+            },
+            {
+                "title": "SortHybridSowingSchemes",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SowingTermClassifications",
+        "childs": [
+            {
+                "title": "CropSowingTermClassifications",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SowingTerms",
+        "childs": [
+            {
+                "title": "SortHybridSowingTerms",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "SowingWays",
+        "childs": [
+            {
+                "title": "Crops",
+                "childs": [
+                    {
+                        "title": "AdditionalOperationFuelConsumptionNorms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropBiomassCalories",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCalendarOperationByPreviousCrops",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCalendarOperations",
+                        "childs": [
+                            {
+                                "title": "CropCalendarOperationByPreviousCrops",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropCharacteristicsByChemicalElements",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropComponentRatioYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropCultivatingNumbers",
+                        "childs": [
+                            {
+                                "title": "CropMicroelementSystemPreparations",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropGrowthPhases",
+                        "childs": [
+                            {
+                                "title": "CropGrowthPhaseArisingCalendarPeriods",
+                                "childs": []
+                            },
+                            {
+                                "title": "CropGrowthPhasePlantProtectionUsages",
+                                "childs": [
+                                    {
+                                        "title": "CropGrowthPhaseProcessingKinds",
+                                        "childs": []
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "FertilizerCropGrowthPhases",
+                                "childs": []
+                            },
+                            {
+                                "title": "MeasureLimitExecutionTerms",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropHarmfulObjectPlantProtectionSystems",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropHarmfulObjects",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropOperationStageTechnicalMaps",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropOptimalReseedingTerms",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropQualityGroups",
+                        "childs": [
+                            {
+                                "title": "CropQualityGroupStandards",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropQualityTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRealizationCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropReproductions",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRipenessGroups",
+                        "childs": [
+                            {
+                                "title": "SortHybrids",
+                                "childs": [
+                                    {
+                                        "title": "SeedGrowthNumberForAgronoms",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridAgroZones",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridClimaticZones",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridFirmnessToHarmfulObjectRates",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridFirmnessToMonocultureRates",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridPhysicals",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridQualities",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridResistanceFactors",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridShortCharacteristics",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridSowingSchemes",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridSowingTerms",
+                                        "childs": []
+                                    },
+                                    {
+                                        "title": "SortHybridVegetations",
+                                        "childs": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "CropRotationLinkPriorities",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRotations",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropRotationSchemeItems",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropShortCharacteristicTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSoilAgroChemicalCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSoilAgroPhysicCharacteristics",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingPurposes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropSowingTermClassifications",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropStandardHumidities",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropStandardYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropTechnologyOperations",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropTranspirationCoefficients",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropVegetationPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "CropVegetationTypes",
+                        "childs": []
+                    },
+                    {
+                        "title": "ElevatorServiceCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "FertilizerNitrogenSchemas",
+                        "childs": [
+                            {
+                                "title": "FertilizerNitrogenSchemaVariants",
+                                "childs": [
+                                    {
+                                        "title": "FertilizerNitrogenSchemaVariantCharacteristics",
+                                        "childs": [
+                                            {
+                                                "title": "FertilizerCropGrowthPhases",
+                                                "childs": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "FieldYields",
+                        "childs": []
+                    },
+                    {
+                        "title": "MonocultureMaxNumberOfRepetitions",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationChoiceFactors",
+                        "childs": []
+                    },
+                    {
+                        "title": "OperationDependencyRules",
+                        "childs": []
+                    },
+                    {
+                        "title": "PlantProtectionAftereffectPeriods",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedBalances",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedGrowthNumberForAgronoms",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatmentCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "SeedTreatments",
+                        "childs": [
+                            {
+                                "title": "SeedTreatmentCompositions",
+                                "childs": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SoilTreatmentSchemes",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybridCosts",
+                        "childs": []
+                    },
+                    {
+                        "title": "SortHybrids",
+                        "childs": [
+                            {
+                                "title": "SeedGrowthNumberForAgronoms",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridAgroZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridClimaticZones",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridFirmnessToHarmfulObjectRates",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridFirmnessToMonocultureRates",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridPhysicals",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridQualities",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridResistanceFactors",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridShortCharacteristics",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridSowingSchemes",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridSowingTerms",
+                                "childs": []
+                            },
+                            {
+                                "title": "SortHybridVegetations",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "OperationChoiceFactors",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "StructuralPositions",
+        "childs": [
+            {
+                "title": "ResponsibilityAreaClusters",
+                "childs": []
+            },
+            {
+                "title": "ResponsibilityAreaFields",
+                "childs": []
+            },
+            {
+                "title": "ResponsibilityAreaGeoZones",
+                "childs": []
+            },
+            {
+                "title": "StructuralPositionObjects",
+                "childs": []
+            },
+            {
+                "title": "UserStructuralPositions",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "Users",
+        "childs": [
+            {
+                "title": "SeedGrowthNumberForAgronoms",
+                "childs": []
+            },
+            {
+                "title": "UserStructuralPositions",
+                "childs": []
+            }
+        ]
+    },
+    {
+        "title": "VegetationTypes",
+        "childs": [
+            {
+                "title": "CropVegetationTypes",
+                "childs": []
+            },
+            {
+                "title": "SortHybridVegetations",
+                "childs": []
+            }
+        ]
+    }
+]
